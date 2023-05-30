@@ -1,0 +1,164 @@
+/content/TTS-TT2/wavs/1.wav|Please call Stella.
+/content/TTS-TT2/wavs/2.wav|Ask her to bring these things with her from the store.
+/content/TTS-TT2/wavs/3.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+/content/TTS-TT2/wavs/4.wav|We also need a small plastic snake and a big toy frog for the kids.
+/content/TTS-TT2/wavs/5.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+/content/TTS-TT2/wavs/6.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+/content/TTS-TT2/wavs/7.wav|The rainbow is a division of white light into many beautiful colors.
+/content/TTS-TT2/wavs/8.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+/content/TTS-TT2/wavs/9.wav|There is , according to legend, a boiling pot of gold at one end.
+/content/TTS-TT2/wavs/10.wav|People look, but no one ever finds it.
+/content/TTS-TT2/wavs/11.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+/content/TTS-TT2/wavs/12.wav|Throughout the centuries people have explained the rainbow in various ways.
+/content/TTS-TT2/wavs/13.wav|Some have accepted it as a miracle without physical explanation.
+/content/TTS-TT2/wavs/14.wav|To the Hebrews it was a token that there would be no more universal floods.
+/content/TTS-TT2/wavs/15.wav|The Greeks used to imagine that it was a sign from the gods to foretell war on heavy rain.
+/content/TTS-TT2/wavs/16.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+/content/TTS-TT2/wavs/17.wav|Others have tried to explain the phenomenon physically.
+/content/TTS-TT2/wavs/18.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+/content/TTS-TT2/wavs/19.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+/content/TTS-TT2/wavs/20.wav|Many complicated ideas about the rainbow have been formed.
+/content/TTS-TT2/wavs/21.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+/content/TTS-TT2/wavs/22.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+/content/TTS-TT2/wavs/23.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+/content/TTS-TT2/wavs/24.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+/content/TTS-TT2/wavs/25.wav|Police were called to the scene, according to the weekend reports.
+/content/TTS-TT2/wavs/26.wav|This is not a floating Las Vegas.
+/content/TTS-TT2/wavs/27.wav|It is not an amnesty.
+/content/TTS-TT2/wavs/28.wav|The important thing was to be there, and to experience it.
+/content/TTS-TT2/wavs/29.wav|Of course, this is nice to hear.
+/content/TTS-TT2/wavs/30.wav|It was between myself, the management, and the team.
+/content/TTS-TT2/wavs/31.wav|I don't believe you own anything.
+/content/TTS-TT2/wavs/32.wav|The music industry hasn't changed at all.
+/content/TTS-TT2/wavs/33.wav|There will be no shortage of quality applicants.
+/content/TTS-TT2/wavs/34.wav|Blood samples have been taken.
+/content/TTS-TT2/wavs/35.wav|Someone came down and said, Can you read a script?
+/content/TTS-TT2/wavs/36.wav|He said he now intends to fly today.
+/content/TTS-TT2/wavs/37.wav|This means that our programme is quite unusual.
+/content/TTS-TT2/wavs/38.wav|Mexico City was a wonderful experience.
+/content/TTS-TT2/wavs/39.wav|A further police inquiry is currently being held.
+/content/TTS-TT2/wavs/40.wav|Some people begin to turn away, to go home.
+/content/TTS-TT2/wavs/41.wav|You're not stopping people using sunbeds.
+/content/TTS-TT2/wavs/42.wav|A recording contract is on the horizon.
+/content/TTS-TT2/wavs/43.wav|It has been a horrible, horrible time.
+/content/TTS-TT2/wavs/44.wav|We like being the underdogs.
+/content/TTS-TT2/wavs/45.wav|They said construction work could begin within weeks.
+/content/TTS-TT2/wavs/46.wav|We will continue to operate within the sport.
+/content/TTS-TT2/wavs/47.wav|But the law is very clear on this.
+/content/TTS-TT2/wavs/48.wav|But all forms of the illness are treatable.
+/content/TTS-TT2/wavs/49.wav|It is also central to the unfolding drama.
+/content/TTS-TT2/wavs/50.wav|Except for this, it was offside.
+/content/TTS-TT2/wavs/51.wav|On the contrary, some of the music is very expensive.
+/content/TTS-TT2/wavs/52.wav|It's a grey area.
+/content/TTS-TT2/wavs/53.wav|Retirement, who knows?
+/content/TTS-TT2/wavs/54.wav|He was shocked by what he saw.
+/content/TTS-TT2/wavs/55.wav|Until recently, she worked as a recruitment consultant in London.
+/content/TTS-TT2/wavs/56.wav|It comes on like a tidal wave.
+/content/TTS-TT2/wavs/57.wav|England and Wales are likely to pull out.
+/content/TTS-TT2/wavs/58.wav|Mr Cook, a left-winger from Britain, would be ideally placed.
+/content/TTS-TT2/wavs/59.wav|He was taken ill in December last year.
+/content/TTS-TT2/wavs/60.wav|We welcome the decision of Mr Byers.
+/content/TTS-TT2/wavs/61.wav|It's all too short term.
+/content/TTS-TT2/wavs/62.wav|This, he told the committee, was not forthcoming.
+/content/TTS-TT2/wavs/63.wav|Meanwhile, the weather was causing widespread disruption.
+/content/TTS-TT2/wavs/64.wav|Robin Williams is very subdued.
+/content/TTS-TT2/wavs/65.wav|His rival's are spoken with elan.
+/content/TTS-TT2/wavs/66.wav|He also does not get along with Christina.
+/content/TTS-TT2/wavs/67.wav|If convicted, they face the death penalty.
+/content/TTS-TT2/wavs/68.wav|How things have changed since then.
+/content/TTS-TT2/wavs/69.wav|Therefore, it isn't getting the respect it deserves.
+/content/TTS-TT2/wavs/70.wav|This is the way things should be handled.
+/content/TTS-TT2/wavs/71.wav|For me, the tour is wide open this year.
+/content/TTS-TT2/wavs/72.wav|In the past few years, they have started to fight back.
+/content/TTS-TT2/wavs/73.wav|The Prime Minister was very honest and sincere.
+/content/TTS-TT2/wavs/74.wav|What are you supposed to do, just walk away?
+/content/TTS-TT2/wavs/75.wav|She opens tonight in Glasgow, at the King's Theatre.
+/content/TTS-TT2/wavs/76.wav|Henman is taking nothing for granted.
+/content/TTS-TT2/wavs/77.wav|You'd think there was a match on today.
+/content/TTS-TT2/wavs/78.wav|We must move on.
+/content/TTS-TT2/wavs/79.wav|Certainly, the Taliban regime is finished.
+/content/TTS-TT2/wavs/80.wav|The table was compiled by the Daily Telegraph.
+/content/TTS-TT2/wavs/81.wav|His options are severely limited.
+/content/TTS-TT2/wavs/82.wav|This is truly field of miracles.
+/content/TTS-TT2/wavs/83.wav|They are not an item.
+/content/TTS-TT2/wavs/84.wav|Why did they let him go?
+/content/TTS-TT2/wavs/85.wav|Another suggestion was dismissed by Virgin.
+/content/TTS-TT2/wavs/86.wav|I have made good progress.
+/content/TTS-TT2/wavs/87.wav|We do need a new one.
+/content/TTS-TT2/wavs/88.wav|They had to be cut from the wreckage.
+/content/TTS-TT2/wavs/89.wav|We defended well, but couldn't do much in attack.
+/content/TTS-TT2/wavs/90.wav|What happens when the funding is exhausted.
+/content/TTS-TT2/wavs/91.wav|He then had a swipe at Hearts.
+/content/TTS-TT2/wavs/92.wav|According to the criteria, he is qualified for Scotland.
+/content/TTS-TT2/wavs/93.wav|But the relief was short-lived.
+/content/TTS-TT2/wavs/94.wav|You had better believe it.
+/content/TTS-TT2/wavs/95.wav|The mood is upbeat.
+/content/TTS-TT2/wavs/96.wav|He told us about it the next day.
+/content/TTS-TT2/wavs/97.wav|It's not a new concept in jazz.
+/content/TTS-TT2/wavs/98.wav|There are a huge number of arts.
+/content/TTS-TT2/wavs/99.wav|They are, therefore, not in favour of dispersal of sex offenders.
+/content/TTS-TT2/wavs/100.wav|My office is bare.
+/content/TTS-TT2/wavs/101.wav|Thereafter, he set his mind on becoming a doctor.
+/content/TTS-TT2/wavs/102.wav|Where is the anthrax?
+/content/TTS-TT2/wavs/103.wav|Housing is in very short supply.
+/content/TTS-TT2/wavs/104.wav|After all, he is the King of Scotland.
+/content/TTS-TT2/wavs/105.wav|People just came on their own.
+/content/TTS-TT2/wavs/106.wav|We are so, so lucky, so many people have died.
+/content/TTS-TT2/wavs/107.wav|The culture is extremely widespread and vibrant.
+/content/TTS-TT2/wavs/108.wav|You either have him or you don't.
+/content/TTS-TT2/wavs/109.wav|There are some new buildings in there.
+/content/TTS-TT2/wavs/110.wav|I am prepared to step down.
+/content/TTS-TT2/wavs/111.wav|I'm not a diva.
+/content/TTS-TT2/wavs/112.wav|There is great relief at this point.
+/content/TTS-TT2/wavs/113.wav|Look at them after three days of rain.
+/content/TTS-TT2/wavs/114.wav|I didn't realise it had reached that stage.
+/content/TTS-TT2/wavs/115.wav|There is no point in pushing it.
+/content/TTS-TT2/wavs/116.wav|He was the deputy editor at the paper.
+/content/TTS-TT2/wavs/117.wav|Yesterday Mr Hague dismissed the poll.
+/content/TTS-TT2/wavs/118.wav|Few other services in Scotland are affected, the spokesman said.
+/content/TTS-TT2/wavs/119.wav|Completion is expected by October the following year.
+/content/TTS-TT2/wavs/120.wav|However, it very nearly all went wrong.
+/content/TTS-TT2/wavs/121.wav|It is not a definite proposal as yet.
+/content/TTS-TT2/wavs/122.wav|I will speak to Michael about this.
+/content/TTS-TT2/wavs/123.wav|This is not understood by people outside.
+/content/TTS-TT2/wavs/124.wav|I'm sure this game will be equally successful.
+/content/TTS-TT2/wavs/125.wav|Wallace was a prisoner of war.
+/content/TTS-TT2/wavs/126.wav|There is a lack of chemistry.
+/content/TTS-TT2/wavs/127.wav|I went straight to the toilet.
+/content/TTS-TT2/wavs/128.wav|She says the royal family get on well.
+/content/TTS-TT2/wavs/129.wav|Does a firefighter have to be killed?
+/content/TTS-TT2/wavs/130.wav|Scottish Athletics is opposed to permitting a move.
+/content/TTS-TT2/wavs/131.wav|That group reported just before Christmas.
+/content/TTS-TT2/wavs/132.wav|I've always been desperate to play this part.
+/content/TTS-TT2/wavs/133.wav|We haven't actually considered it down here.
+/content/TTS-TT2/wavs/134.wav|There is still much work to be done.
+/content/TTS-TT2/wavs/135.wav|However, details have yet to be worked out.
+/content/TTS-TT2/wavs/136.wav|All our thoughts and prayers are with them.
+/content/TTS-TT2/wavs/137.wav|One of them, a woman, is in serious condition.
+/content/TTS-TT2/wavs/138.wav|We were with him the whole time.
+/content/TTS-TT2/wavs/139.wav|From then on, Scott has never looked back.
+/content/TTS-TT2/wavs/140.wav|All manner of precaution and protection are taken.
+/content/TTS-TT2/wavs/141.wav|That's because we work hard at it.
+/content/TTS-TT2/wavs/142.wav|This might seem like an outrageous assertion.
+/content/TTS-TT2/wavs/143.wav|He's been the key to everything.
+/content/TTS-TT2/wavs/144.wav|Since then, my life has been turned upside down.
+/content/TTS-TT2/wavs/145.wav|Headteachers want their pupils to conform.
+/content/TTS-TT2/wavs/146.wav|They said to me, Why don't you get into acting, Tommy?
+/content/TTS-TT2/wavs/147.wav|We need a new kind of theatre.
+/content/TTS-TT2/wavs/148.wav|I was in the train station overnight.
+/content/TTS-TT2/wavs/149.wav|I feel my life to be at risk.
+/content/TTS-TT2/wavs/150.wav|Again and again, at every level, he delivered the goods.
+/content/TTS-TT2/wavs/151.wav|That would be poetic, wouldn't it?
+/content/TTS-TT2/wavs/152.wav|We came across the first set of bodies.
+/content/TTS-TT2/wavs/153.wav|We need some confidence to get a win.
+/content/TTS-TT2/wavs/154.wav|Does that put pressure on us?
+/content/TTS-TT2/wavs/155.wav|You've seen the polls then, Sean.
+/content/TTS-TT2/wavs/156.wav|This is a foolish idea.
+/content/TTS-TT2/wavs/157.wav|You might even have seen him.
+/content/TTS-TT2/wavs/158.wav|Sussex Police refused to give any further details.
+/content/TTS-TT2/wavs/159.wav|They thought they had found a home.
+/content/TTS-TT2/wavs/160.wav|She collapsed and died a day later.
+/content/TTS-TT2/wavs/161.wav|You should be there with six different characters.
+/content/TTS-TT2/wavs/162.wav|Laura is an investment banker.
+/content/TTS-TT2/wavs/163.wav|I took a minibus into town.
+/content/TTS-TT2/wavs/164.wav|I do my job.
